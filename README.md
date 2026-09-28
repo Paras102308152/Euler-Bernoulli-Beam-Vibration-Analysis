@@ -22,10 +22,13 @@ This project presents an analytical and numerical free vibration analysis of a u
 ## 🔬 Analytical vs. FEA Results Comparison
 
 | Mode | Analytical Frequency (Hz) | ANSYS FEA Frequency (Hz) | Relative Error (%) |
-|:---:|---:---:|---:---:|---:|
-| 1 | 45.78 | 45.794 | 0.03% |
-| 2 | 412.01 | 410.01 | 0.49% |
-| 3 | 1144.92 | 1127.30 | 1.54% |
+| ---- | ------------------------: | -----------------------: | -----------------: |
+| 1    |                     45.78 |                   45.794 |              0.03% |
+| 2    |                    412.01 |                   410.01 |              0.49% |
+| 3    |                   1144.92 |                  1127.30 |              1.54% |
+
+---
+
 
 ---
 
